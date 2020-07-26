@@ -20,3 +20,4 @@ $ cd wp-js
   Target website with http or https
 $ python2 wp-js.py sc-name.html list-web.txt
 ```
+![js](https://user-images.githubusercontent.com/65480013/88470587-5af70100-cf28-11ea-9557-736576bf8839.JPG)
