@@ -15,7 +15,7 @@ module requests
 ```
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/AnonRoz-Team/domain-to-ip
+$ git clone https://github.com/AnonRoz-Team/wp-js
 $ cd wp-js
   Target website with http or https
 $ python2 wp-js.py sc-name.html list-web.txt
